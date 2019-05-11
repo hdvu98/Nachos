@@ -1,0 +1,8 @@
+#include "syscall.h"
+#include "copyright.h"
+int main()
+{
+	PrintString("phan tieu phuong\n");
+	return 0;
+}
+
